@@ -1,5 +1,6 @@
-.images img {
-	max-width: 110% !important;
+.nopadding {
+	padding: 0px;
+	margin: 0px;
 }
 
 .gris {
@@ -10,13 +11,18 @@
 .gris a {
 	background-color: white;
 	border-radius: 15px;
-	padding: 10px;
+	padding: 4%;
 	color: black;
 }
 
 .gris p{
 	color: white;
-	margin-top: 30px;
-	text-align: center;
+	margin-top: 4%;
 	font-size: 19px;
+}
+
+hr {
+	color: #D95D3D !important;
+	height: 2px;
+	width: 20%
 }
