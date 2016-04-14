@@ -57,3 +57,30 @@ header input{
     border-radius: 10px;
     margin: 5% 0% 5% 46%;
 }
+.portafolio{
+	background-color: #F98562;
+}
+.portafolio h4{
+	color: #F7592A;
+	font-weight: bold;
+	margin: 10px 0px 5px 20px;
+}
+.perfil{
+	background-color: #F7592A;
+}
+.perfil h2{
+	margin-top: 2%;
+	color: white;
+	text-align: center;
+}
+.perfil p{
+	text-align: center;
+	padding: 1% 30% 0% 30%;
+	color: white;
+	margin-bottom: 5%;
+}
+.perfil hr{
+	width: 5%;
+	height: 3px;
+	background-color: white;
+}
