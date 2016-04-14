@@ -110,8 +110,13 @@ header input{
 	font-size: 19px;
 }
 
-hr {
-	color: #D95D3D !important;
-	height: 2px;
-	width: 20%
+.title p:first-child {
+	font-size: 20px;
+	margin-top: 4%;
 }
+
+.title p {
+	font-size: 9px;
+}
+
+
