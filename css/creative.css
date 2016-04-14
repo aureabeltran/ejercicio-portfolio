@@ -1,13 +1,102 @@
+
 .nopadding {
 	padding: 0px;
 	margin: 0px;
+}
+header{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+}
+header h5{
+	color: white;
+	font-size: 15px;
+	font-weight: bolder;
+	margin: 10px 0px 5px 20px;
+}
+header ol{
+	text-decoration: none;
+	padding: 10px 0px 5px 10px;
+}
+header li{
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 15px;
+}
+header a{
+	text-decoration: none;
+	color: white;
+}
+header a:hover{
+	font-weight: bold;
+	color: white;
+}
+header hr{
+	width: 100%;
+}
+header h1{
+	text-align: center;
+	font-size: 40px !important;
+	color: white;
+	padding: 10% 20% 0% 20%;
+	font-weight: bold;
+}
+.linea{
+	width: 30px;
+	height: 5px;
+	background-color: #FC693D;
+}
+header p{
+	color: white;
+	padding: 0% 25% 0% 25%;
+	text-align: center;
+}
+header input{
+	color: white;
+	font-weight: bold;
+	background-color: #FC693D;
+	border: #FC693D;
+	width: 100px;
+	height: 30px;
+	-moz-border-radius: 10px;
+   -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 5% 0% 5% 46%;
+}
+.portafolio{
+	background-color: #F98562;
+}
+.portafolio h4{
+	color: #F7592A;
+	font-weight: bold;
+	margin: 10px 0px 5px 20px;
+}
+.perfil{
+	background-color: #F7592A;
+}
+.perfil h2{
+	margin-top: 2%;
+	color: white;
+	text-align: center;
+}
+.perfil p{
+	text-align: center;
+	padding: 1% 30% 0% 30%;
+	color: white;
+	margin-bottom: 5%;
+}
+.perfil hr{
+	width: 5%;
+	height: 3px;
+	background-color: white;
+}
+.images img {
+	max-width: 110% !important;
 }
 
 .gris {
 	background-color: #1A1921;
 	height: 130px;
 }
-
 .gris a {
 	background-color: white;
 	border-radius: 15px;
