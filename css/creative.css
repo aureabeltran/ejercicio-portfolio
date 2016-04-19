@@ -120,3 +120,20 @@ header input{
 }
 
 
+/*servicios*/
+.servicios {
+	color: #F7592A;
+	width: 30px;
+	height: 3px;
+}
+.iserv {
+	color: #F7592A;
+	font-size: 40px;
+	position: relative;
+	left: 40%
+}
+
+.pserv {
+	color: gray;
+	text-align: center;
+}
